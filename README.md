@@ -12,3 +12,4 @@ Kurzanleitung:
   deren Wert aktualisiert werden soll.
 - Es sind noch keine oder wenige Exceptions behandel. Es ist möglich, dass der vollständige Pfad zur 
   PropertySettings.xml angegeben werden muss. 
+- Beim testen ist zu beachten, dass die Daten aus der ProjectInfo.xml des "Musterprojektes" gelesen werden. Nach ändern einer Eigenschaft über den Projekteigenschaftsdialog in Eplan muss das Projekt geschlossen werden, damit die Eigenschaften in die ProjectInfo.xml übernommen werden.
